@@ -6,7 +6,7 @@ Accounting and Software Development
 ```
 I’m interested in:
 ```
-Web Development, nodeJS, Python, Blender (3D modelling) and Digital Drawing
+Web Development, JavaScript, Python, Blender (3D modelling) and Digital Drawing
 ```
 I’m currently learning:
 ```
