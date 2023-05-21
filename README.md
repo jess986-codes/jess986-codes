@@ -1,6 +1,6 @@
 👋 HiHii~, I’m @jess986-codes👋
 
-In my Bachelors degree, I major in:
+I majored in:
 ```
 Accounting and Software Development
 ```
