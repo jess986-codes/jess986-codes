@@ -1,4 +1,4 @@
-👋 HiHii~, I’m @jess986-codes👋
+👋 Hi, I’m @jess986-codes👋
 
 I majored in:
 ```
