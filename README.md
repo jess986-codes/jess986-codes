@@ -10,7 +10,7 @@ Web Development, JavaScript, Python, Blender (3D modelling) and Digital Drawing
 ```
 I’m currently learning:
 ```
-Adobe Experience Manager (Content Management System) and 3D modelling
+Adobe Experience Manager (Content Management System)
 ```
 I want to learn:
 ```
