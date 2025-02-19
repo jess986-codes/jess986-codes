@@ -6,18 +6,16 @@ Accounting and Software Development
 ```
 I’m interested in:
 ```
-Web Development, JavaScript, Python, Blender (3D modelling) and Digital Drawing
+Web Development, Java Spring Boot, Python and Blender (3D modelling)
 ```
-I’m currently learning:
+I am currently a:
 ```
-Adobe Experience Manager (Content Management System)
+Java Developer for Adobe Experience Manager Sites (Content Management System)
 ```
 I want to learn:
 ```
-AR/VR and Machine Learning 
+Creative Coding using three.js and p5.js
 ```
-
-
 
 <!---
 jess986-codes/jess986-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
